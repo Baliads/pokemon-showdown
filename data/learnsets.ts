@@ -15483,6 +15483,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			tailwhip: ["8L4", "7L5", "7V", "6L5", "5L5", "5S0", "4L5", "3L4"],
 			takedown: ["8L24", "7L27", "6L27", "5L27"],
 			telekinesis: ["7T"],
+			teleport: ["5T"],
 			thunder: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			thunderbolt: ["8M", "7M", "6M", "5M", "4M", "3M"],
 			thunderpunch: ["8M", "7T", "6T", "5T", "4T"],

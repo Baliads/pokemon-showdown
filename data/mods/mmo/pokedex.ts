@@ -531,7 +531,11 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 		unreleasedHidden: true,
 	},
 	cubchoo: {
-	inherit: true,
-	abilities: {0: "Snow Cloak", 1: "Slush Rush", H: "Rattled"},
+		inherit: true,
+		abilities: {0: "Snow Cloak", 1: "Slush Rush", H: "Rattled"},
+	},
+	blissey: {
+		inherit: true,
+		abilities: {0: "Natural Cure", 1: "Serene Grace", H: "Healer"},
 	},
 };
